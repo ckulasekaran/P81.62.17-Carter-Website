@@ -18,8 +18,8 @@ The William E. Carter School provides a supportive, student-centered learning en
 
 ## Project Structure
 ```
-/          # Root directory
-├── src/   # Source files for 11ty
+/                    # Root directory
+├── src/             # Source files for 11ty
 │   ├── _includes/   # Reusable templates and components
 │   ├── _layouts/    # Layout templates
 │   ├── assets/      # CSS, JS, images, and fonts
