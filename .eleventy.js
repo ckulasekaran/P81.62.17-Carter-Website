@@ -14,8 +14,8 @@ console.log('pathPrefix is set to ...', pathPrefix);
 // see "eleventyConfig.addGlobalData("site", globalData);"" below
 // related: https://github.com/11ty/eleventy/issues/1641
 const globalSiteData = {
-  title: "11ty-plain-bootstrap5",
-  description: "Template for static site generator Eleventy with Boostrap 5 and SCSS/JS compilation via laravel-mix.",
+  title: "William E. Carter School",
+  description: "The William E. Carter Schools provides specialized education for up to 60 students, ages 3–21, with significant cognitive disabilities and complex medical needs. Our team delivers intensive instruction in Augmentative and Alternative Communication (AAC) and Early Emergent Literacy Skills to support each student’s unique learning journey.",
   locale: 'en',
   baseUrl: baseUrl,
   pathPrefix: pathPrefix,

@@ -5,12 +5,18 @@ eleventyNavigation:
   order: 1
 ---
 
-## About us
+<div class="row mt-3">
+  <div class="col-12">
+    <div class="img-fit-cover-container rounded-3 bg-light">
+      {% image "./src/assets/images/hero-carterschool-1.jpg", "William E. Carter School aerial view." %}
+    </div>
+  </div>
+</div>
 
-**This was written in Markdown.**
+<p>&nbsp;</p>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The **William E. Carter School** is a specialized Boston Public School dedicated to serving students with significant cognitive disabilities and complex medical needs. Our mission is to provide a **holistic, student-centered education** that empowers each learner to reach their fullest potential. With a state-of-the-art facility designed for accessibility and engagement, we offer a **highly individualized curriculum** that integrates academics, communication, social-emotional development, and functional life skills.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+At the Carter School, we take an **interdisciplinary approach** to education, ensuring that every student receives comprehensive support from a team of educators, therapists, and medical professionals. Our programs include **aquatic therapy, adapted physical education, music therapy, and vocational training**, all tailored to enhance each student’s abilities and independence. By fostering a nurturing and inclusive environment, we help our students develop meaningful connections, express themselves, and participate in their communities.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Through innovative teaching methods, specialized resources, and a deep commitment to every child’s success, the Carter School remains a leader in **exceptional student education**. We celebrate progress at every level and strive to create pathways for lifelong learning, growth, and engagement.
