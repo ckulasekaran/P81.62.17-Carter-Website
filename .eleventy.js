@@ -5,7 +5,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 // (mostly for github pages deployment, see build-deploy.yaml)
 const baseUrl = process.env.BASE_URL || 'http://localhost:8080';
 // e.g. 'https://mandrasch.github.io/'
-const pathPrefix = process.env.PATH_PREFIX || '/P81.62.17-Carter-Website/';
+const pathPrefix = process.env.PATH_PREFIX || '/';
 // e.g. '/11ty-plain-boostrap5/'
 console.log('baseUrl is set to ...', baseUrl);
 console.log('pathPrefix is set to ...', pathPrefix);
@@ -15,7 +15,7 @@ console.log('pathPrefix is set to ...', pathPrefix);
 // related: https://github.com/11ty/eleventy/issues/1641
 const globalSiteData = {
   title: "William E. Carter School",
-  description: "The William E. Carter Schools provides specialized education for up to 60 students, ages 3–21, with significant cognitive disabilities and complex medical needs. Our team delivers intensive instruction in Augmentative and Alternative Communication (AAC) and Early Emergent Literacy Skills to support each student’s unique learning journey.",
+  description: "The William E. Carter Schools provides specialized education for up to 60 students, ages 3 through 21, with significant cognitive disabilities and complex medical needs. Our team delivers intensive instruction in Augmentative and Alternative Communication (AAC) and Early Emergent Literacy Skills to support each student’s unique learning journey.",
   locale: 'en',
   baseUrl: baseUrl,
   pathPrefix: pathPrefix,
