@@ -5,6 +5,8 @@ eleventyNavigation:
   order: 1
 ---
 
+## About us
+
 <div class="row mt-3">
   <div class="col-12">
     <div class="img-fit-cover-container rounded-3 bg-light">
@@ -12,7 +14,6 @@ eleventyNavigation:
     </div>
   </div>
 </div>
-
 <p>&nbsp;</p>
 
 The **William E. Carter School** is a specialized Boston Public School dedicated to serving students with significant cognitive disabilities and complex medical needs. Our mission is to provide a **holistic, student-centered education** that empowers each learner to reach their fullest potential. With a state-of-the-art facility designed for accessibility and engagement, we offer a **highly individualized curriculum** that integrates academics, communication, social-emotional development, and functional life skills.
