@@ -2,7 +2,7 @@
 layout: base
 eleventyNavigation:
   key: Careers
-  order: 1
+  order: 2
 ---
 
 ## William E. Carter School is Hiring! (March 2025)
@@ -31,4 +31,15 @@ nurses, a social worker, and a community field coordinator.
 If you are passionate about making a meaningful impact in the lives 
 of students with complex needs, we encourage you to explore 
 opportunities with us. Stay tuned for job postings in **March 2025**
-and visit this website for updates!
+
+<div align="center">
+  <p>
+    <a class="btn btn-outline-dark" href="https://bostonpublicschools.schoolspring.com" target="_blank_">
+      <img src="../../assets/images/job-application.png" height="50px"/>&nbsp;&nbsp;
+      &nbsp;Visit <strong>https://bostonpublicschools.schoolspring.com</strong> to apply! &nbsp;
+      <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.66V20a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h5.34"></path><polygon points="18 2 22 6 12 16 8 16 8 12 18 2"></polygon></svg>
+      &nbsp;-->
+    </a>
+    <br/><br/><br/>
+  </p>
+</div>
