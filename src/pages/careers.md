@@ -30,7 +30,7 @@ nurses, a social worker, and a community field coordinator.
 <br><br>
 If you are passionate about making a meaningful impact in the lives 
 of students with complex needs, we encourage you to explore 
-opportunities with us. Stay tuned for job postings in **March 2025**
+opportunities with us. Stay tuned for job postings in **March 2025**.
 
 <div align="center">
   <p>
