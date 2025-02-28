@@ -42,7 +42,7 @@ Ensure you have the following installed:
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/carter-school-website.git
+   git clone https://github.com/ckulasekaran/P81.62.17-Carter-Website.git
    cd carter-school-website
    ```
 2. **Install dependencies**
