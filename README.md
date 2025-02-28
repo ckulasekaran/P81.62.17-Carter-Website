@@ -68,4 +68,4 @@ The site is deployed via **GitHub Pages**. Push changes to the `main` branch, an
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please contact the William E. Carter School at [official email/contact info].
+For questions or feedback, please contact the William E. Carter School.
